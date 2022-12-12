@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "token": "Post 1", "username": "mis" },
-    { "id": 2, "token": "Post 2", "username": "tes" },
-    { "id": 3, "token": "Post 3", "username": "zed" }
+    { "id": 1, "token": "Post 1", "username": "mis", "Authorization":"auto" },
+    { "id": 2, "token": "Post 2", "username": "tes", "Authorization":"auto" },
+    { "id": 3, "token": "Post 3", "username": "zed", "Authorization":"auto" }
   ] 
 }
